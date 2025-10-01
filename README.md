@@ -135,3 +135,4 @@ The API includes comprehensive error handling for:
 - Admin-only access for KYC rejection endpoint
 - Token-based authentication
 - Input validation for required fields
+
